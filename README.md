@@ -11,3 +11,4 @@ Repeated String | Easy | [Click here](https://www.hackerrank.com/challenges/repe
 Minimum Swaps 2 | Medium | [Click here](https://www.hackerrank.com/challenges/minimum-swaps-2/)
 Counting Valleys | Easy | [Click here](https://www.hackerrank.com/challenges/counting-valleys/)
 2D Array - DS | Easy | [Click here](https://www.hackerrank.com/challenges/2d-array/)
+Arrays: Left Rotation | Easy | [Click here](https://www.hackerrank.com/challenges/ctci-array-left-rotation)
