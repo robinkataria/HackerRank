@@ -3,13 +3,16 @@ This repo contains some Hackerrank Competitive Question's solution coded in Pyth
 
 #### My Hackerrank Profile [Click here](https://www.hackerrank.com/robinkataria)
 
-Problem | Difficulty | Link
----- | ---- | ----
-The Full Counting Sort | Medium | [Click here](https://www.hackerrank.com/challenges/countingsort4)
-Sock Merchant | Easy | [Click here](https://www.hackerrank.com/challenges/sock-merchant/)
-Repeated String | Easy | [Click here](https://www.hackerrank.com/challenges/repeated-string/)
-Minimum Swaps 2 | Medium | [Click here](https://www.hackerrank.com/challenges/minimum-swaps-2/)
-Counting Valleys | Easy | [Click here](https://www.hackerrank.com/challenges/counting-valleys/)
-2D Array - DS | Easy | [Click here](https://www.hackerrank.com/challenges/2d-array/)
-Arrays: Left Rotation | Easy | [Click here](https://www.hackerrank.com/challenges/ctci-array-left-rotation)
-Alternating Characters | Easy | [Click here](https://www.hackerrank.com/challenges/alternating-characters)
+Problem | Difficulty
+---- | ----
+[The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4) | Medium
+[Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/) | Medium
+
+Problem | Difficulty
+---- | ----
+[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/) | Easy
+[Repeated String](https://www.hackerrank.com/challenges/repeated-string/) | Easy
+[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/) | Easy
+[2D Array - DS](https://www.hackerrank.com/challenges/2d-array/) | Easy
+[Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation)
+[Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)
