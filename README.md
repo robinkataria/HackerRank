@@ -9,6 +9,7 @@ Problem | Difficulty
 ---- | ----
 [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4) | Medium
 [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/) | Medium
+[Pairs](https://www.hackerrank.com/challenges/pairs) | Medium
 
 Problem | Difficulty
 ---- | ----
