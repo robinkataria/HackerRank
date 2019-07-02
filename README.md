@@ -3,9 +3,7 @@ This repo contains some Hackerrank Competitive Question's solution coded in Pyth
 
 #### My Hackerrank Profile [Click here](https://www.hackerrank.com/robinkataria)
 
-#### Problem Statements :
-###### (Click on Problem Name)
-
+###### Problem Statements [Click on Problem Name]
 
 Problem | Difficulty
 ---- | ----
