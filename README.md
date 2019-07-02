@@ -1,7 +1,11 @@
 # hackerrank - algos
-This repo contains some Hackerrank Competitive Question's solution coded in Python3 language. You can search the file name in the Hackerrank website's SEARCH bar for Problem Statement.
+This repo contains some Hackerrank Competitive Question's solution coded in Python3 language.
 
 #### My Hackerrank Profile [Click here](https://www.hackerrank.com/robinkataria)
+
+#### Problem Statements :
+###### (Click on Problem Name)
+
 
 Problem | Difficulty
 ---- | ----
@@ -14,5 +18,5 @@ Problem | Difficulty
 [Repeated String](https://www.hackerrank.com/challenges/repeated-string/) | Easy
 [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/) | Easy
 [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/) | Easy
-[Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation)
-[Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)
+[Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation) | Easy
+[Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters) | Easy
