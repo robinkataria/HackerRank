@@ -8,7 +8,9 @@ This repo contains some HackerRank Competitive Question's solution coded in Pyth
 
 ◇ | ◇ | Difficulty: MEDIUM | ◇ | ◇
 ---- | ---- | ---- | ---- | ----
-[The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4) | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/) | [Pairs](https://www.hackerrank.com/challenges/pairs)
+[The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4) | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/) | [Pairs](https://www.hackerrank.com/challenges/pairs) | [Encryption
+
+](https://www.hackerrank.com/challenges/encryption/)
 
 ◇ | ◇ | Difficulty: EASY | ◇ | ◇
 ---- | ---- | ---- | ---- | ----
